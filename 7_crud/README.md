@@ -1,4 +1,10 @@
-Being able to add to the list
+# Crud
 
+adding crud operation with socket.io
 
-Testing is importtant becasue it mean that when code is run it can be tested w
+## To Run 
+ * npm isntall
+ * npm start
+ > and
+ cd into `/src/server` file and run
+ * node server.js
